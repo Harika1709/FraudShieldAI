@@ -4,7 +4,7 @@
 
 Modern cybersecurity-themed authentication page for secure analyst access.
 
-![Login Page](screenshots/1.jpeg)
+![Login Page](screenshots/1.png)
 
 ---
 
@@ -17,7 +17,7 @@ Real-time fraud monitoring dashboard displaying:
 - Transaction trends
 - Distribution analytics
 
-![Dashboard](screenshots/2.jpeg)
+![Dashboard](screenshots/2.png)
 
 ---
 
@@ -29,7 +29,7 @@ Detailed transaction monitoring interface with:
 - Transaction filtering
 - Fraud status indicators
 
-![Transactions](screenshots/3.jpeg)
+![Transactions](screenshots/3.png)
 
 ---
 
@@ -41,7 +41,7 @@ Advanced analytics and visual insights including:
 - 30-day activity trends
 - Country-wise fraud analysis
 
-![Analytics](screenshots/4.jpeg)
+![Analytics](screenshots/4.png)
 
 ---
 
@@ -53,7 +53,7 @@ Fraud alert management system supporting:
 - Slack notifications
 - Real-time fraud warnings
 
-![Alerts](screenshots/5.jpeg)
+![Alerts](screenshots/5.png)
 
 ---
 
@@ -65,7 +65,7 @@ AI-powered fraud intelligence section showing:
 - Feature engineering details
 - ROC-AUC performance
 
-![AI Insights](screenshots/6.jpeg)
+![AI Insights](screenshots/6.png)
 
 ---
 
@@ -77,6 +77,6 @@ Integrated AI chatbot assistant for:
 - Transaction insights
 - Security recommendations
 
-![AI Chatbot](screenshots/7.jpeg)
+![AI Chatbot](screenshots/7.png)
 
 ---
