@@ -17,7 +17,7 @@ Watch the complete working demonstration of **FraudShieldAI** including:
 
 ## 🎬 Demo Video
 
-[▶️ Watch Demo Video](demo/FraudShieldAI_Demo.mp4)
+[▶️ Watch Demo Video](demo/FraudShieldAI_Demo.mov)
 
 ---
 
