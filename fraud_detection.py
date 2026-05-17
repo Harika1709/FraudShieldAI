@@ -221,3 +221,17 @@ if prediction[0] == 1:
     print("\nPrediction: Fraudulent Transaction")
 else:
     print("\nPrediction: Genuine Transaction")
+
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
+y_pred = xgb.predict(X_test)
+
+accuracy = accuracy_score(y_test, y_pred)
+
+print(f"Accuracy: {accuracy * 100:.2f}%")
+
+print("\nClassification Report:")
+print(classification_report(y_test, y_pred))
+
+print("\nConfusion Matrix:")
+print(confusion_matrix(y_test, y_pred))
